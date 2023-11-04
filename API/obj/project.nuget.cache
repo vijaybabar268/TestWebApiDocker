@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "JeZjB73o1G3R822YIuYYAwYTqlpYuY1GTjh5RiCzpxLQ74t6Z+2sglKBnNYoznDky9niexQT9MlhkIUTU3Kzwg==",
+  "dgSpecHash": "3lI0Hu2wsu6oZLN017knX4j2lvzKIbsO4CmLfkY0tv5c4m1GAod7N4LCD8zD5bE+yyq+O39RvwLeQj8CgkqJ7Q==",
   "success": true,
-  "projectFilePath": "D:\\Workplace\\NET7_DOCKER_POC\\TestWebApiDocker\\API\\API.csproj",
+  "projectFilePath": "D:\\Workplace\\NET7_DOCKER_POC\\TestWebApiDocker\\api\\API.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\babar\\.nuget\\packages\\microsoft.aspnetcore.openapi\\7.0.11\\microsoft.aspnetcore.openapi.7.0.11.nupkg.sha512",
     "C:\\Users\\babar\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",

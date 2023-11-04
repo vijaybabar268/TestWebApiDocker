@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Workplace\\NET7_DOCKER_POC\\TestWebApiDocker\\API\\API.csproj": {}
+    "D:\\Workplace\\NET7_DOCKER_POC\\TestWebApiDocker\\api\\API.csproj": {}
   },
   "projects": {
-    "D:\\Workplace\\NET7_DOCKER_POC\\TestWebApiDocker\\API\\API.csproj": {
+    "D:\\Workplace\\NET7_DOCKER_POC\\TestWebApiDocker\\api\\API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Workplace\\NET7_DOCKER_POC\\TestWebApiDocker\\API\\API.csproj",
+        "projectUniqueName": "D:\\Workplace\\NET7_DOCKER_POC\\TestWebApiDocker\\api\\API.csproj",
         "projectName": "API",
-        "projectPath": "D:\\Workplace\\NET7_DOCKER_POC\\TestWebApiDocker\\API\\API.csproj",
+        "projectPath": "D:\\Workplace\\NET7_DOCKER_POC\\TestWebApiDocker\\api\\API.csproj",
         "packagesPath": "C:\\Users\\babar\\.nuget\\packages\\",
-        "outputPath": "D:\\Workplace\\NET7_DOCKER_POC\\TestWebApiDocker\\API\\obj\\",
+        "outputPath": "D:\\Workplace\\NET7_DOCKER_POC\\TestWebApiDocker\\api\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\babar\\AppData\\Roaming\\NuGet\\NuGet.Config",
