@@ -1,48 +1,42 @@
-﻿{
-  "$schema": "https://json.schemastore.org/launchsettings.json",  
+﻿{   
   "profiles": {
+    "qa": {
+      "commandName": "Project",
+      "dotnetRunMessages": true,
+      "launchBrowser": false,
+      "launchUrl": "swagger"     
+    },
     "dev1": {
       "commandName": "Project",
       "dotnetRunMessages": true,
-      "launchBrowser": true,
+      "launchBrowser": false,
       "launchUrl": "swagger",
-      "applicationUrl": "http://localhost:7001",
+      "applicationUrl": "http://localhost:7011",
       "environmentVariables": {
         "ASPNETCORE_ENVIRONMENT": "dev1",
-        "ASPNETCORE_APIURL": "http://localhost:7001/api/dev1/"
+        "ASPNETCORE_URLS": "http://localhost:7001"
       }
     },
     "dev2": {
       "commandName": "Project",
       "dotnetRunMessages": true,
-      "launchBrowser": true,
+      "launchBrowser": false,
       "launchUrl": "swagger",
-      "applicationUrl": "http://localhost:7002",
+      "applicationUrl": "http://localhost:70012",
       "environmentVariables": {
         "ASPNETCORE_ENVIRONMENT": "dev2",
-        "ASPNETCORE_APIURL": "http://localhost:7002/api/dev2/",
+        "ASPNETCORE_URLS": "http://localhost:7002"
       }
-    },
-    "qa": {
-      "commandName": "Project",
-      "dotnetRunMessages": true,
-      "launchBrowser": true,
-      "launchUrl": "swagger",
-      "applicationUrl": "http://localhost:7003",
-      "environmentVariables": {
-        "ASPNETCORE_ENVIRONMENT": "qa",
-        "ASPNETCORE_APIURL": "http://localhost:7003/api/qa/",
-      }
-    },
+    },    
     "production": {
       "commandName": "Project",
       "dotnetRunMessages": true,
-      "launchBrowser": true,
+      "launchBrowser": false,
       "launchUrl": "swagger",
-      "applicationUrl": "http://localhost:7004",
+      "applicationUrl": "http://localhost:70014",
       "environmentVariables": {
         "ASPNETCORE_ENVIRONMENT": "production",
-        "ASPNETCORE_APIURL": "http://localhost:7004/api/",
+        "ASPNETCORE_URLS": "http://localhost:7004"
       }
     }
   }
